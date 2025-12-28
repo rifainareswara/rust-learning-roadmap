@@ -120,6 +120,6 @@ _Happy Learning! 🦀_
 
 ## 📜 License
 
-© 2024 **Rizqi Nur Rifai**. All rights reserved.
+MIT License © 2024 [Rizqi Nur Rifai](https://github.com/rifainareswara)
 
-This learning material is created for personal educational purposes.
+See [LICENSE](LICENSE) for details.
