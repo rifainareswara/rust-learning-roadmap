@@ -115,3 +115,11 @@ cargo run
 ---
 
 _Happy Learning! 🦀_
+
+---
+
+## 📜 License
+
+© 2024 **Rizqi Nur Rifai**. All rights reserved.
+
+This learning material is created for personal educational purposes.

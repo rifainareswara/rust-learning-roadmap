@@ -97,6 +97,7 @@ fn print_banner() {
     ║   Interactive Rust Learning System                    ║
     ║   Belajar Rust dengan cara yang menyenangkan!         ║
     ║                                                       ║
+    ║   © 2024 Rizqi Nur Rifai                              ║
     ╚═══════════════════════════════════════════════════════╝
     "#.cyan().bold());
 }

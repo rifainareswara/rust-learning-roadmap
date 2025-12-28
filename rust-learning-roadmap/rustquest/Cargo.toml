@@ -2,7 +2,9 @@
 name = "rustquest"
 version = "0.1.0"
 edition = "2021"
+authors = ["Rizqi Nur Rifai"]
 description = "Interactive Rust Learning Quest System"
+license = "MIT"
 
 [dependencies]
 colored = "2.1"
