@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    ports:
+      - "3031:3000"
+    environment:
+      - MONGODB_URI=${MONGODB_URI}
+      - RUST_LOG=info
+    restart: unless-stopped
