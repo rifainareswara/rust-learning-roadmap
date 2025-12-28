@@ -1,0 +1,14 @@
+/Users/rifai/Github/Learn/rust/rust-learning-roadmap/rustquest/target/release/deps/serde-40bfa235e805bde6.d: /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/rifai/Github/Learn/rust/rust-learning-roadmap/rustquest/target/release/build/serde-d226e7a5d70b6c62/out/private.rs
+
+/Users/rifai/Github/Learn/rust/rust-learning-roadmap/rustquest/target/release/deps/libserde-40bfa235e805bde6.rlib: /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/rifai/Github/Learn/rust/rust-learning-roadmap/rustquest/target/release/build/serde-d226e7a5d70b6c62/out/private.rs
+
+/Users/rifai/Github/Learn/rust/rust-learning-roadmap/rustquest/target/release/deps/libserde-40bfa235e805bde6.rmeta: /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/rifai/Github/Learn/rust/rust-learning-roadmap/rustquest/target/release/build/serde-d226e7a5d70b6c62/out/private.rs
+
+/Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/rifai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/rifai/Github/Learn/rust/rust-learning-roadmap/rustquest/target/release/build/serde-d226e7a5d70b6c62/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/rifai/Github/Learn/rust/rust-learning-roadmap/rustquest/target/release/build/serde-d226e7a5d70b6c62/out
